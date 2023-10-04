@@ -1,5 +1,4 @@
 # Version-Control
 10/4 Lab for CMPINIF0010
 
-testing 
-test
+For our program,we made 3 variable "name" "age" and "message", it would take the user's input of name and age and combine it in message and print the message
